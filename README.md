@@ -1,17 +1,20 @@
-# Brew Casks
+# Homebrew Casks
 
 [![Software License][ico-license]](LICENSE.md)
 [![Repo Size][ico-github-repo-size]][link-github-repo-size]
 
-A custom cask collection for [Brew][link-brew].
+A custom cask collection for [Homebrew][link-homebrew].
 
 # Install
 
-Via Brew
+Via Homebrew
 
-```powershell
-# For a single Brew cask (replacing `package` with the required package)
-brew cask install "https://raw.githubusercontent.com/owenvoke/brew-casks/master/Casks/{package}.rb"
+```bash
+# For all casks
+brew tap owenvoke/casks
+
+# For a single Homebrew cask (replacing `package` with the required package)
+brew cask install "https://raw.githubusercontent.com/owenvoke/homebrew-casks/master/Casks/{package}.rb"
 ```
 
 ## Credits
@@ -24,9 +27,9 @@ brew cask install "https://raw.githubusercontent.com/owenvoke/brew-casks/master/
 The MIT License (MIT). Please see [License File](LICENSE.md) for more information.
 
 [ico-license]: https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square
-[ico-github-repo-size]: https://img.shields.io/github/repo-size/owenvoke/brew-casks?style=flat-square
+[ico-github-repo-size]: https://img.shields.io/github/repo-size/owenvoke/homebrew-casks?style=flat-square
 
-[link-github-repo-size]: https://github.com/owenvoke/brew-casks/tree/master/Casks
-[link-brew]: https://brew.sh
+[link-github-repo-size]: https://github.com/owenvoke/homebrew-casks/tree/master/Casks
+[link-homebrew]: https://brew.sh
 [link-author]: https://github.com/owenvoke
 [link-contributors]: ../../contributors
