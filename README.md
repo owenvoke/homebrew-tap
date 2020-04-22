@@ -20,6 +20,10 @@ brew cask install owenvoke/casks/[package]
 brew cask install "https://raw.githubusercontent.com/owenvoke/homebrew-casks/master/Casks/[package].rb"
 ```
 
+## Available Casks
+
+- [HELO](https://usehelo.com) ([source](./Casks/helo.rb))
+
 ## Credits
 
 - [Owen Voke][link-author]
