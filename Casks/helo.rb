@@ -10,6 +10,8 @@ cask 'helo' do
 
   app 'HELO.app'
 
+  auto_updates true
+
   zap trash: [
                '~/Library/Application Support/HELO',
                '~/Library/Logs/HELO',
