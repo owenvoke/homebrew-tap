@@ -24,6 +24,10 @@ brew cask install "https://raw.githubusercontent.com/owenvoke/homebrew-casks/mas
 
 - [HELO](https://usehelo.com) ([source](./Casks/helo.rb))
 
+## Available Formulae
+
+- [Tea](https://gitea.com/gitea/tea) ([source](./Formula/tea.rb))
+
 ## Credits
 
 - [Owen Voke][link-author]
