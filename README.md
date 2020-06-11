@@ -23,6 +23,7 @@ brew cask install "https://raw.githubusercontent.com/owenvoke/homebrew-casks/mas
 ## Available Casks
 
 - [HELO](https://usehelo.com) ([source](./Casks/helo.rb))
+- [Iconset](https://iconset.io) ([source](./Casks/iconset.rb))
 
 ## Available Formulae
 
