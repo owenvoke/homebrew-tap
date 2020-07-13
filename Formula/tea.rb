@@ -2,10 +2,10 @@ require 'formula'
 
 class Tea < Formula
   homepage 'https://gitea.com/gitea/tea'
-  version '0.3.0'
+  version '0.3.1'
 
   url "https://dl.gitea.io/tea/#{version}/tea-#{version}-darwin-10.6-amd64"
-  sha256 '185aee306028715aea58f45888af0685173c01a1d4a30e0c9bccc4bf854f7a6b'
+  sha256 'a9d1881bbd642c414b2f7177bfed1a6b560fdaa8ee791add38d35317c8973728'
 
   bottle :unneeded
 
