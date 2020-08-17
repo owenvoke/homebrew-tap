@@ -17,7 +17,7 @@ brew tap owenvoke/casks
 brew cask install owenvoke/casks/[package]
 
 # For a single cask with no repository
-brew cask install "https://raw.githubusercontent.com/owenvoke/homebrew-casks/master/Casks/[package].rb"
+brew cask install "https://raw.githubusercontent.com/owenvoke/homebrew-casks/main/Casks/[package].rb"
 ```
 
 ## Available Casks
@@ -41,7 +41,7 @@ The MIT License (MIT). Please see [License File](LICENSE.md) for more informatio
 [ico-license]: https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square
 [ico-github-repo-size]: https://img.shields.io/github/repo-size/owenvoke/homebrew-casks?style=flat-square
 
-[link-github-repo-size]: https://github.com/owenvoke/homebrew-casks/tree/master/Casks
+[link-github-repo-size]: https://github.com/owenvoke/homebrew-casks/tree/main/Casks
 [link-homebrew]: https://brew.sh
 [link-author]: https://github.com/owenvoke
 [link-contributors]: ../../contributors
