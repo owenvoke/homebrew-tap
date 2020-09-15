@@ -24,6 +24,7 @@ brew cask install "https://raw.githubusercontent.com/owenvoke/homebrew-casks/mai
 
 - [HELO](https://usehelo.com) ([source](./Casks/helo.rb))
 - [Iconset](https://iconset.io) ([source](./Casks/iconset.rb))
+- [Invoker](https://invoker.dev) ([source](./Casks/invoker.rb))
 
 ## Available Formulae
 
