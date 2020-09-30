@@ -6,6 +6,7 @@ cask 'invoker' do
   url "https://invoker.ams3.digitaloceanspaces.com/invoker/Invoker-#{version}.dmg"
   appcast 'https://invoker.ams3.digitaloceanspaces.com/invoker/latest-mac.yml'
   name 'Invoker'
+  desc 'Invoker is like an admin panel for all your Laravel applications.'
   homepage 'https://invoker.dev/'
 
   auto_updates true

@@ -6,6 +6,7 @@ cask 'helo' do
   url "https://helo.fra1.digitaloceanspaces.com/helo/HELO-#{version}.dmg"
   appcast 'https://helo.fra1.digitaloceanspaces.com/helo/latest-mac.yml'
   name 'HELO'
+  desc 'The swiss-army-knife of email testing and debugging.'
   homepage 'https://usehelo.com/'
 
   auto_updates true
