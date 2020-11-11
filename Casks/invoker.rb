@@ -1,10 +1,10 @@
 cask "invoker" do
-  version "2.0.0"
-  sha256 "30a5aa3071db7a1a55f60c6003f55eba429a9dc3270e426683b556e243f493c2"
+  version "2.0.0-RC8"
+  sha256 "2d0cda3bf2e97518364c9d37c0152ecbe22a1697e605d84e435a7d662248d823"
 
-  # invoker.ams3.digitaloceanspaces.com was verified as official when first introduced to the cask
-  url "https://invoker.ams3.digitaloceanspaces.com/invoker/Invoker-#{version}.dmg"
-  appcast "https://invoker.ams3.digitaloceanspaces.com/invoker/latest-mac.yml"
+  # invokerdev.fra1.digitaloceanspaces.com was verified as official when first introduced to the cask
+  url "https://invokerdev.fra1.digitaloceanspaces.com/invoker/Invoker-#{version}.dmg"
+  appcast "https://invokerdev.fra1.digitaloceanspaces.com/invoker/latest-mac.yml"
   name "Invoker"
   desc "Is like an admin panel for all your Laravel applications"
   homepage "https://invoker.dev/"
