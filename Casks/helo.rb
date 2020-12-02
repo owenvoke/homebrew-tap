@@ -15,6 +15,8 @@ cask "helo" do
 
   zap trash: [
     "~/Library/Application Support/HELO",
+    "~/Library/Caches/de.beyondco.helo",
+    "~/Library/Caches/de.beyondco.helo.ShipIt",
     "~/Library/Logs/HELO",
     "~/Library/Preferences/de.beyondco.helo.plist",
     "~/Library/Saved Application State/de.beyondco.helo.savedState",
