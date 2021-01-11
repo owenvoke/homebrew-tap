@@ -14,10 +14,10 @@ Via Homebrew
 brew tap owenvoke/casks
 
 # For a single cask
-brew cask install owenvoke/casks/[package]
+brew install --cask owenvoke/casks/[package]
 
 # For a single cask with no repository
-brew cask install "https://raw.githubusercontent.com/owenvoke/homebrew-casks/main/Casks/[package].rb"
+brew install --cask "https://raw.githubusercontent.com/owenvoke/homebrew-casks/main/Casks/[package].rb"
 ```
 
 ## Available Casks
