@@ -9,15 +9,15 @@ A custom cask collection for [Homebrew][link-homebrew].
 
 Via Homebrew
 
-```bash
+```shell
 # For all casks
-brew tap owenvoke/casks
+$ brew tap owenvoke/casks
 
 # For a single cask
-brew install --cask owenvoke/casks/[package]
+$ brew install --cask owenvoke/casks/[package]
 
 # For a single cask with no repository
-brew install --cask "https://raw.githubusercontent.com/owenvoke/homebrew-casks/main/Casks/[package].rb"
+$ brew install --cask "https://raw.githubusercontent.com/owenvoke/homebrew-casks/main/Casks/[package].rb"
 ```
 
 ## Available Casks
