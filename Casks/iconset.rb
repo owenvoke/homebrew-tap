@@ -5,10 +5,15 @@ cask "iconset" do
   # github.com was verified as official when first introduced to the cask
   url "https://github.com/IconsetApp/iconset/releases/download/v#{version}/Iconset-#{version}-mac.zip",
       verified: "github.com/IconsetApp/iconset/releases/download/"
-  appcast "https://iconset.io/changelog"
   name "Iconset"
   desc "Free, cross-platform and fast SVG icon manager app"
   homepage "https://iconset.io/"
+
+  livecheck do
+    url "https://iconset.io/changelog"
+    strategy :page_match
+    regex(/\<h3\>Version (\d+\.\d+\.\d+)\<\/h3\>/i)
+  end
 
   app "Iconset.app"
 end

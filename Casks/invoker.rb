@@ -4,10 +4,15 @@ cask "invoker" do
 
   url "https://invokerdev.fra1.digitaloceanspaces.com/invoker/Invoker-#{version}.dmg",
       verified: "invokerdev.fra1.digitaloceanspaces.com/invoker/"
-  appcast "https://invokerdev.fra1.digitaloceanspaces.com/invoker/latest-mac.yml"
   name "Invoker"
   desc "Is like an admin panel for all your Laravel applications"
   homepage "https://invoker.dev/"
+
+  livecheck do
+    url "https://invokerdev.fra1.digitaloceanspaces.com/invoker/latest-mac.yml"
+    strategy :page_match
+    regex(/version:\s*(\d+(?:\.\d+)*)/i)
+  end
 
   auto_updates true
 
