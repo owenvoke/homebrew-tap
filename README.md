@@ -28,7 +28,7 @@ $ brew install --cask "https://raw.githubusercontent.com/owenvoke/homebrew-casks
 ## Deprecated Casks
 
 - ~~[HELO](https://usehelo.com) ([source](./Casks/helo.rb))~~ (Moved to [Homebrew Core](https://formulae.brew.sh/cask/helo))
-- ~~[Invoker](https://invoker.dev) ([source](./Casks/invoker.rb))~~ (Moved to [Homebrew Core](https://formulae.brew.sh/cask/tinkerwell))
+- ~~[Tinkerwell](https://tinkerwell.app) ([source](./Casks/tinkerwell.rb))~~ (Moved to [Homebrew Core](https://formulae.brew.sh/cask/tinkerwell))
 
 ## Available Formulae
 
