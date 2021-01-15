@@ -5,6 +5,11 @@ class LocalPhpSecurityChecker < Formula
   version "1.0.0"
   sha256 "8c363d605116e84cf9ac28ac3838ca7979f7306916049bdb3f0f1fe2a8764d82"
 
+  livecheck do
+    url :stable
+    regex(/^v?(\d+(?:\.\d+)+)$/i)
+  end
+
   bottle :unneeded
 
   def install
