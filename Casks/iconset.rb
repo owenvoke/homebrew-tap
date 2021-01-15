@@ -12,7 +12,7 @@ cask "iconset" do
   livecheck do
     url "https://iconset.io/changelog"
     strategy :page_match
-    regex(/\<h3\>Version (\d+\.\d+\.\d+)\<\/h3\>/i)
+    regex(/\<h3\>Version\s+(?:\<!-- --\>)?(\d+\.\d+\.\d+)\<\/h3\>/i)
   end
 
   app "Iconset.app"
