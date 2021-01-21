@@ -32,6 +32,10 @@ $ brew install --cask "https://raw.githubusercontent.com/owenvoke/homebrew-casks
 
 ## Available Formulae
 
+- [Lambo](https://github.com/tighten/lambo) ([source](./Formula/lambo.rb))
+- [Local PHP Security Checker](https://github.com/fabpot/local-php-security-checker) ([source](./Formula/local-php-security-checker.rb))
+- [Oh Dear CLI](https://github.com/nunomaduro/ohdear-cli) ([source](./Formula/ohdear-cli.rb))
+- [Takeout](https://github.com/tighten/takeout) ([source](./Formula/takeout.rb))
 - [Tea](https://gitea.com/gitea/tea) ([source](./Formula/tea.rb))
 
 ## Credits
