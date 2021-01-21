@@ -5,6 +5,11 @@ class OhdearCli < Formula
   sha256 "9ff436a103c48346f478d5e96e66cf7648e111df5d9d5aeb04347cad0f8bced2"
   license "MIT"
 
+  livecheck do
+    url :stable
+    regex(/^v?(\d+(?:\.\d+)+)$/i)
+  end
+
   bottle :unneeded
 
   depends_on "php"
