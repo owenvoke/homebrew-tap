@@ -9,9 +9,6 @@ cask "invoker" do
   homepage "https://invoker.dev/"
 
   livecheck do
-    # Remove once stable
-    skip "This application is not stable"
-
     url "https://invokerdev.fra1.digitaloceanspaces.com/invoker/latest-mac.yml"
     strategy :page_match
     regex(/version:\s*(\d+(?:\.\d+)*)/i)
