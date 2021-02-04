@@ -13,7 +13,7 @@ class LocalPhpSecurityChecker < Formula
   bottle :unneeded
 
   def install
-    bin.install "local-php-security-checker_1.0.0_darwin_amd64" => "local-php-security-checker"
+    bin.install "local-php-security-checker_#{version}_darwin_amd64" => "local-php-security-checker"
   end
 
   test do
