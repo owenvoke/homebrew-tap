@@ -1,6 +1,6 @@
 cask "instatus-out" do
-  version "1.0.6"
-  sha256 "7865c2173b6d94e2d0feb62e49afbcaa63fbab0b01d64307101685410face874"
+  version "1.0.7"
+  sha256 "0d84d3f4583097c1f44ce40d9260165ecda40f15d93258c957f129ba6abf5e12"
 
   url "https://github.com/instatushq/out/releases/download/v#{version}/Instatus.Out-#{version}-mac.dmg",
       verified: "https://github.com/instatushq/out/"
