@@ -24,6 +24,7 @@ $ brew install --cask "https://raw.githubusercontent.com/owenvoke/homebrew-casks
 
 - [Instatus Out](https://instatus.com/out) ([source](./Casks/instatus-out.rb))
 - [Invoker](https://invoker.dev) ([source](./Casks/invoker.rb))
+- [Tint](https://beyondco.de/licenses/tint) ([source](./Casks/tint.rb))
 
 ## Deprecated Casks
 
