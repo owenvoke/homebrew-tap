@@ -40,6 +40,18 @@ $ brew install --cask "https://raw.githubusercontent.com/owenvoke/homebrew-casks
 - [Takeout](https://github.com/tighten/takeout) ([source](./Formula/takeout.rb))
 - [Tea](https://gitea.com/gitea/tea) ([source](./Formula/tea.rb))
 
+## Updates
+
+Casks and formulae in this tap are periodically checked for updates, and updates are applied manually.
+
+To check for new updates for any of the casks or formulae, run the following command:
+
+```shell
+brew livecheck --tap owenvoke/casks
+```
+
+If an update is available, you can open a pull request using the `brew bump-cask-pr` command.
+
 ## Credits
 
 - [Owen Voke][link-author]
