@@ -23,13 +23,13 @@ $ brew install --cask "https://raw.githubusercontent.com/owenvoke/homebrew-casks
 ## Available Casks
 
 - [Instatus Out](https://instatus.com/out) ([source](./Casks/instatus-out.rb))
-- [Invoker](https://invoker.dev) ([source](./Casks/invoker.rb))
 - [Tint](https://beyondco.de/licenses/tint) ([source](./Casks/tint.rb))
 
 ## Deprecated Casks
 
 - ~~[HELO](https://usehelo.com) ([source](./Casks/helo.rb))~~ (Moved to [Homebrew Core](https://formulae.brew.sh/cask/helo))
 - ~~[Iconset](https://iconset.io) ([source](./Casks/iconset.rb))~~ (Moved to [Homebrew Core](https://formulae.brew.sh/cask/iconset))
+- ~~[Invoker](https://invoker.dev) ([source](./Casks/invoker.rb)))~~ (Moved to [Homebrew Core](https://formulae.brew.sh/cask/invoker))
 - ~~[Tinkerwell](https://tinkerwell.app) ([source](./Casks/tinkerwell.rb))~~ (Moved to [Homebrew Core](https://formulae.brew.sh/cask/tinkerwell))
 
 ## Available Formulae
