@@ -9,8 +9,7 @@ cask "tint" do
 
   livecheck do
     url "https://assets.beyondco.de/tint/latest-mac.yml"
-    strategy :page_match
-    regex(/version:\s*(\d+(?:\.\d+)*)/i)
+    strategy :electron_builder
   end
 
   auto_updates true
