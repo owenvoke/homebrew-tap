@@ -4,7 +4,7 @@ cask "tint" do
 
   url "https://assets.beyondco.de/tint/Tint-#{version}.dmg"
   name "Tint"
-  desc "A Tailwind CSS colour picker"
+  desc "Tailwind CSS colour picker"
   homepage "https://beyondco.de/software/tint"
 
   livecheck do
