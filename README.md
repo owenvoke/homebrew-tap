@@ -23,7 +23,7 @@ $ brew install --cask "https://raw.githubusercontent.com/owenvoke/homebrew-casks
 ## Available Casks
 
 - [Instatus Out](https://instatus.com/out) ([source](./Casks/instatus-out.rb))
-- [Laravel Shift Workbench](https://laravelshift.com/workbench) ([source](./Casks/laravelshift-workbench.rb)
+- [Laravel Shift Workbench](https://laravelshift.com/workbench) ([source](./Casks/laravelshift-workbench.rb))
 
 ## Deprecated Casks
 
