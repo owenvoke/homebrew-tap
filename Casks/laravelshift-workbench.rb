@@ -15,8 +15,8 @@ cask "laravelshift-workbench" do
   homepage "https://laravelshift.com/workbench"
 
   livecheck do
-    url "https://laravelshift.com/workbench/download/mac-intel"
-    strategy :header_match
+    url "https://shift-cloud.s3.amazonaws.com/workbench/latest-mac.yml"
+    strategy :electron_builder
   end
 
   app "Workbench.app"
