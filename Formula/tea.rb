@@ -1,9 +1,11 @@
 class Tea < Formula
   desc "Command-line tool to interact with Gitea servers"
   homepage "https://gitea.com/gitea/tea"
-  url "https://dl.gitea.io/tea/0.8.0/tea-0.8.0-darwin-amd64"
+  url "https://dl.gitea.io/tea/0.8.0/tea-0.8.0-darwin-amd64.xz"
   version "0.8.0"
-  sha256 "654b9dcfd224a11bb105817e629b92e101ee542baca1ffea89e4a3a3b9b27e36"
+  sha256 "8d9aaef2c9e851759a575892d5af8dd2130f0b9c5705189572a282f812126a48"
+
+  depends_on "xz"
 
   bottle :unneeded
 
