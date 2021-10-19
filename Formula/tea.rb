@@ -7,8 +7,6 @@ class Tea < Formula
 
   depends_on "xz"
 
-  bottle :unneeded
-
   def install
     bin.install "tea-#{version}-darwin-amd64" => "tea"
   end

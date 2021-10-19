@@ -10,8 +10,6 @@ class LocalPhpSecurityChecker < Formula
     regex(/^v?(\d+(?:\.\d+)+)$/i)
   end
 
-  bottle :unneeded
-
   def install
     bin.install "local-php-security-checker_#{version}_darwin_amd64" => "local-php-security-checker"
   end

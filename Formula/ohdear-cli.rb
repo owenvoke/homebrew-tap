@@ -10,8 +10,6 @@ class OhdearCli < Formula
     regex(/^v?(\d+(?:\.\d+)+)$/i)
   end
 
-  bottle :unneeded
-
   depends_on "php"
 
   def install
