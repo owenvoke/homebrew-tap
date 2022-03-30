@@ -1,8 +1,8 @@
 class Lambo < Formula
   desc "Super-powered `laravel new` for Laravel and Valet"
   homepage "https://github.com/tighten/lambo"
-  url "https://github.com/tighten/lambo/raw/v1.1.1/builds/lambo"
-  sha256 "bc5b9cf5dbf57767a6d75ad71b5add5e2300f158e733b739ad005b1217144d64"
+  url "https://github.com/tighten/lambo/raw/v2.0.0/builds/lambo"
+  sha256 "fb5e4a6f87239bd5692a7314ebf2542c4f14d2806126a1b6907b8393c65a4341"
   license "MIT"
 
   livecheck do
