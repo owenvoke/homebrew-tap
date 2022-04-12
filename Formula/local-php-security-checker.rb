@@ -1,9 +1,9 @@
 class LocalPhpSecurityChecker < Formula
   desc "Check if your PHP application uses packages with known security vulnerabilities"
   homepage "https://github.com/fabpot/local-php-security-checker"
-  url "https://github.com/fabpot/local-php-security-checker/releases/download/v1.2.0/local-php-security-checker_1.2.0_darwin_amd64"
-  version "1.2.0"
-  sha256 "a52bbaff7888ab5698c76ea4134ec66fd79cdb7974edbe5ff1162a052cef3b27"
+  url "https://github.com/fabpot/local-php-security-checker/releases/download/v2.0.3/local-php-security-checker_2.0.3_darwin_amd64"
+  version "2.0.3"
+  sha256 "8ae16abda547eb0b2e912ea08d51ad6c9449b80d39833a8f5b13e2aa2d58c5ee"
 
   livecheck do
     url :stable
