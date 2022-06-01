@@ -22,16 +22,7 @@ $ brew install --cask "https://raw.githubusercontent.com/owenvoke/homebrew-casks
 
 ## Available Casks
 
-- [Instatus Out](https://instatus.com/out) ([source](./Casks/instatus-out.rb))
 - [Laravel Shift Workbench](https://laravelshift.com/workbench) ([source](./Casks/laravelshift-workbench.rb))
-
-## Deprecated Casks
-
-- ~~[HELO](https://usehelo.com) ([source](./Casks/helo.rb))~~ (Moved to [Homebrew Core](https://formulae.brew.sh/cask/helo))
-- ~~[Iconset](https://iconset.io) ([source](./Casks/iconset.rb))~~ (Moved to [Homebrew Core](https://formulae.brew.sh/cask/iconset))
-- ~~[Invoker](https://invoker.dev) ([source](./Casks/invoker.rb)))~~ (Moved to [Homebrew Core](https://formulae.brew.sh/cask/invoker))
-- ~~[Tinkerwell](https://tinkerwell.app) ([source](./Casks/tinkerwell.rb))~~ (Moved to [Homebrew Core](https://formulae.brew.sh/cask/tinkerwell))
-- ~~[Tint](https://beyondco.de/software/tint)~~ ([source](./Casks/tint.rb)) (Moved to [Homebrew Core](https://formulae.brew.sh/cask/tint))
 
 ## Available Formulae
 
@@ -40,6 +31,15 @@ $ brew install --cask "https://raw.githubusercontent.com/owenvoke/homebrew-casks
 - [Oh Dear CLI](https://github.com/nunomaduro/ohdear-cli) ([source](./Formula/ohdear-cli.rb))
 - [Takeout](https://github.com/tighten/takeout) ([source](./Formula/takeout.rb))
 - [Tea](https://gitea.com/gitea/tea) ([source](./Formula/tea.rb))
+
+## Deprecated Casks
+
+- ~~[HELO](https://usehelo.com) ([source](https://github.com/owenvoke/homebrew-casks/blob/08b4dc671f97b4887d082bed528d9900cc007030/Casks/helo.rb))~~ (Moved to [Homebrew Core](https://formulae.brew.sh/cask/helo))
+- ~~[Iconset](https://iconset.io) ([source](https://github.com/owenvoke/homebrew-casks/blob/4ff05febaad6cac21e448140fd0787dacd1cee73/Casks/iconset.rb))~~ (Moved to [Homebrew Core](https://formulae.brew.sh/cask/iconset))
+- ~~[Instatus Out](https://instatus.com/out) ([source](https://github.com/owenvoke/homebrew-casks/blob/a1df9f6d57dfbb3e8e7c6483af7c437613bf45af/Casks/instatus-out.rb))~~ (Moved to [Homebrew Core](https://formulae.brew.sh/cask/instatus-out))
+- ~~[Invoker](https://invoker.dev) ([source](https://github.com/owenvoke/homebrew-casks/blob/5113f4424d0dd7e39289cdf005a25d1846cc9fc2/Casks/invoker.rb))~~ (Moved to [Homebrew Core](https://formulae.brew.sh/cask/invoker))
+- ~~[Tinkerwell](https://tinkerwell.app) ([source](https://github.com/owenvoke/homebrew-casks/blob/08b4dc671f97b4887d082bed528d9900cc007030/Casks/tinkerwell.rb))~~ (Moved to [Homebrew Core](https://formulae.brew.sh/cask/tinkerwell))
+- ~~[Tint](https://beyondco.de/software/tint) ([source](https://github.com/owenvoke/homebrew-casks/blob/8ffb37a36f6aeb8025c444db4cd52becb3c5a563/Casks/tint.rb))~~ (Moved to [Homebrew Core](https://formulae.brew.sh/cask/tint))
 
 ## Updates
 
