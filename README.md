@@ -28,7 +28,6 @@ $ brew install --cask "https://raw.githubusercontent.com/owenvoke/homebrew-casks
 
 - [Lambo](https://github.com/tighten/lambo) ([source](./Formula/lambo.rb))
 - [Local PHP Security Checker](https://github.com/fabpot/local-php-security-checker) ([source](./Formula/local-php-security-checker.rb))
-- [Oh Dear CLI](https://github.com/nunomaduro/ohdear-cli) ([source](./Formula/ohdear-cli.rb))
 - [Takeout](https://github.com/tighten/takeout) ([source](./Formula/takeout.rb))
 - [Tea](https://gitea.com/gitea/tea) ([source](./Formula/tea.rb))
 
@@ -38,6 +37,7 @@ $ brew install --cask "https://raw.githubusercontent.com/owenvoke/homebrew-casks
 - ~~[Iconset](https://iconset.io) ([source](https://github.com/owenvoke/homebrew-casks/blob/4ff05febaad6cac21e448140fd0787dacd1cee73/Casks/iconset.rb))~~ (Moved to [Homebrew Core](https://formulae.brew.sh/cask/iconset))
 - ~~[Instatus Out](https://instatus.com/out) ([source](https://github.com/owenvoke/homebrew-casks/blob/a1df9f6d57dfbb3e8e7c6483af7c437613bf45af/Casks/instatus-out.rb))~~ (Moved to [Homebrew Core](https://formulae.brew.sh/cask/instatus-out))
 - ~~[Invoker](https://invoker.dev) ([source](https://github.com/owenvoke/homebrew-casks/blob/5113f4424d0dd7e39289cdf005a25d1846cc9fc2/Casks/invoker.rb))~~ (Moved to [Homebrew Core](https://formulae.brew.sh/cask/invoker))
+- ~~[Oh Dear CLI](https://github.com/ohdearapp/ohdear-cli) ([source](https://github.com/owenvoke/homebrew-casks/blob/370f98ec1e0f7e4f488146a1b2c06fa22d78209c/Formula/ohdear-cli.rb))~~ (Moved to [Homebrew Core](https://formulae.brew.sh/formula/ohdear-cli))
 - ~~[Tinkerwell](https://tinkerwell.app) ([source](https://github.com/owenvoke/homebrew-casks/blob/08b4dc671f97b4887d082bed528d9900cc007030/Casks/tinkerwell.rb))~~ (Moved to [Homebrew Core](https://formulae.brew.sh/cask/tinkerwell))
 - ~~[Tint](https://beyondco.de/software/tint) ([source](https://github.com/owenvoke/homebrew-casks/blob/8ffb37a36f6aeb8025c444db4cd52becb3c5a563/Casks/tint.rb))~~ (Moved to [Homebrew Core](https://formulae.brew.sh/cask/tint))
 
