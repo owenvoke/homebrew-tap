@@ -26,6 +26,7 @@ $ brew install --cask "https://raw.githubusercontent.com/owenvoke/homebrew-casks
 
 ## Available Formulae
 
+- [Graphlint](https://github.com/worksome/graphlint) ([source](./Formula/graphlint.rb))
 - [Lambo](https://github.com/tighten/lambo) ([source](./Formula/lambo.rb))
 - [Local PHP Security Checker](https://github.com/fabpot/local-php-security-checker) ([source](./Formula/local-php-security-checker.rb))
 - [Takeout](https://github.com/tighten/takeout) ([source](./Formula/takeout.rb))
