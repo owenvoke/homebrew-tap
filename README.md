@@ -26,7 +26,6 @@ $ brew install --cask "https://raw.githubusercontent.com/owenvoke/homebrew-casks
 
 ## Available Formulae
 
-- [Graphlint](https://github.com/worksome/graphlint) ([source](./Formula/graphlint.rb))
 - [Lambo](https://github.com/tighten/lambo) ([source](./Formula/lambo.rb))
 - [Local PHP Security Checker](https://github.com/fabpot/local-php-security-checker) ([source](./Formula/local-php-security-checker.rb))
 - [Takeout](https://github.com/tighten/takeout) ([source](./Formula/takeout.rb))
@@ -34,6 +33,7 @@ $ brew install --cask "https://raw.githubusercontent.com/owenvoke/homebrew-casks
 
 ## Deprecated Casks
 
+- ~~[Graphlint](https://github.com/worksome/graphlint) ([source](./Formula/graphlint.rb))~~ (Moved to [Worksome Tap](https://github.com/worksome/homebrew-tap))
 - ~~[HELO](https://usehelo.com) ([source](https://github.com/owenvoke/homebrew-casks/blob/08b4dc671f97b4887d082bed528d9900cc007030/Casks/helo.rb))~~ (Moved to [Homebrew Core](https://formulae.brew.sh/cask/helo))
 - ~~[Iconset](https://iconset.io) ([source](https://github.com/owenvoke/homebrew-casks/blob/4ff05febaad6cac21e448140fd0787dacd1cee73/Casks/iconset.rb))~~ (Moved to [Homebrew Core](https://formulae.brew.sh/cask/iconset))
 - ~~[Instatus Out](https://instatus.com/out) ([source](https://github.com/owenvoke/homebrew-casks/blob/a1df9f6d57dfbb3e8e7c6483af7c437613bf45af/Casks/instatus-out.rb))~~ (Moved to [Homebrew Core](https://formulae.brew.sh/cask/instatus-out))
