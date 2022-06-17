@@ -3,7 +3,7 @@
 [![Software License][ico-license]](LICENSE.md)
 [![Repo Size][ico-github-repo-size]][link-github-repo-size]
 
-A custom cask collection for [Homebrew][link-homebrew].
+A custom tap for [Homebrew][link-homebrew].
 
 # Install
 
@@ -11,13 +11,13 @@ Via Homebrew
 
 ```shell
 # For all casks
-$ brew tap owenvoke/casks
+$ brew tap owenvoke/tap
 
 # For a single cask
-$ brew install --cask owenvoke/casks/[package]
+$ brew install --cask owenvoke/tap/[package]
 
 # For a single cask with no repository
-$ brew install --cask "https://raw.githubusercontent.com/owenvoke/homebrew-casks/main/Casks/[package].rb"
+$ brew install --cask "https://raw.githubusercontent.com/owenvoke/homebrew-tap/main/Casks/[package].rb"
 ```
 
 ## Available Casks
@@ -49,7 +49,7 @@ Casks and formulae in this tap are periodically checked for updates, and updates
 To check for new updates for any of the casks or formulae, run the following command:
 
 ```shell
-brew livecheck --tap owenvoke/casks
+brew livecheck --tap owenvoke/tap
 ```
 
 If an update is available, you can open a pull request using the `brew bump-cask-pr` command.
@@ -64,9 +64,9 @@ If an update is available, you can open a pull request using the `brew bump-cask
 The MIT License (MIT). Please see [License File](LICENSE.md) for more information.
 
 [ico-license]: https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square
-[ico-github-repo-size]: https://img.shields.io/github/repo-size/owenvoke/homebrew-casks?style=flat-square
+[ico-github-repo-size]: https://img.shields.io/github/repo-size/owenvoke/homebrew-tap?style=flat-square
 
-[link-github-repo-size]: https://github.com/owenvoke/homebrew-casks/tree/main/Casks
+[link-github-repo-size]: https://github.com/owenvoke/homebrew-tap/tree/main/Casks
 [link-homebrew]: https://brew.sh
 [link-author]: https://github.com/owenvoke
 [link-contributors]: ../../contributors
