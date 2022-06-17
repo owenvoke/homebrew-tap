@@ -33,7 +33,7 @@ $ brew install --cask "https://raw.githubusercontent.com/owenvoke/homebrew-tap/m
 
 ## Deprecated Casks
 
-- ~~[Graphlint](https://github.com/worksome/graphlint) ([source]([./Formula/graphlint.rb](https://github.com/owenvoke/homebrew-tap/blob/746c885e290f59171dc920bf8faeb8be569e52e8/Formula/graphlint.rb)))~~ (Moved to [Worksome Tap](https://github.com/worksome/homebrew-tap))
+- ~~[Graphlint](https://github.com/worksome/graphlint) ([source](https://github.com/owenvoke/homebrew-tap/blob/746c885e290f59171dc920bf8faeb8be569e52e8/Formula/graphlint.rb))~~ (Moved to [Worksome Tap](https://github.com/worksome/homebrew-tap))
 - ~~[HELO](https://usehelo.com) ([source](https://github.com/owenvoke/homebrew-tap/blob/08b4dc671f97b4887d082bed528d9900cc007030/Casks/helo.rb))~~ (Moved to [Homebrew Core](https://formulae.brew.sh/cask/helo))
 - ~~[Iconset](https://iconset.io) ([source](https://github.com/owenvoke/homebrew-tap/blob/4ff05febaad6cac21e448140fd0787dacd1cee73/Casks/iconset.rb))~~ (Moved to [Homebrew Core](https://formulae.brew.sh/cask/iconset))
 - ~~[Instatus Out](https://instatus.com/out) ([source](https://github.com/owenvoke/homebrew-tap/blob/a1df9f6d57dfbb3e8e7c6483af7c437613bf45af/Casks/instatus-out.rb))~~ (Moved to [Homebrew Core](https://formulae.brew.sh/cask/instatus-out))
