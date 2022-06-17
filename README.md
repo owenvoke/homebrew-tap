@@ -1,4 +1,4 @@
-# Homebrew Casks
+# Homebrew Tap
 
 [![Software License][ico-license]](LICENSE.md)
 [![Repo Size][ico-github-repo-size]][link-github-repo-size]
