@@ -1,13 +1,13 @@
 cask "laravelshift-workbench" do
-  version "0.9.3"
+  version "1.0.1"
 
   if Hardware::CPU.intel?
-    sha256 "ccefc6f4b679bd821281af9190d1fe1ec4c32c62b77c4188c058fdd5d72e9d82"
+    sha256 "c45598ddb972caf95ab7a1625647e04afb9c93bfe0172b71ef50387955ce08f6"
 
     url "https://shift-cloud.s3.amazonaws.com/workbench/Workbench-#{version}.dmg",
         verified: "https://shift-cloud.s3.amazonaws.com/workbench/"
   else
-    sha256 "df63ff027d004c2bcf570cc8880209e3ef438fd8e2c881ac423cb6a005ece43c"
+    sha256 "e60e10b77b35bf61e0ba87edc0ec76aca15913b8f746c714d3d2a3d4b9d73de1"
 
     url "https://shift-cloud.s3.amazonaws.com/workbench/Workbench-#{version}-arm64.dmg",
         verified: "https://shift-cloud.s3.amazonaws.com/workbench/"
