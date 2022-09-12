@@ -27,7 +27,9 @@ $ brew install --cask "https://raw.githubusercontent.com/owenvoke/homebrew-tap/m
 ## Available Formulae
 
 - [Lambo](https://github.com/tighten/lambo) ([source](./Formula/lambo.rb))
+- [Laracon Schedule](https://github.com/nunomaduro/laracon-schedule) ([source](./Formula/laracon-schedule.rb))
 - [Local PHP Security Checker](https://github.com/fabpot/local-php-security-checker) ([source](./Formula/local-php-security-checker.rb))
+- [Rugby Schedule](https://github.com/owenvoke/rugby-schedule) ([source](./Formula/rugby-schedule.rb))
 - [Takeout](https://github.com/tighten/takeout) ([source](./Formula/takeout.rb))
 - [Tea](https://gitea.com/gitea/tea) ([source](./Formula/tea.rb))
 
