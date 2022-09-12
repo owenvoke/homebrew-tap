@@ -1,8 +1,8 @@
 class RugbySchedule < Formula
   desc "Keep up to date with rugby tournament schedules"
   homepage "https://github.com/owenvoke/rugby-schedule"
-  url "https://github.com/owenvoke/rugby-schedule/raw/v1.4.0/builds/rugby-schedule"
-  sha256 "e733fe97e3306326408554a4d0eb7ac1f048153b5693afb3983485e13df45c2f"
+  url "https://github.com/owenvoke/rugby-schedule/raw/v1.4.1/builds/rugby-schedule"
+  sha256 "3bc9c085e03572c0327d26ca0b90396510c2398036b5cb1675a59f8ba832e6cf"
   license "MIT"
 
   livecheck do
