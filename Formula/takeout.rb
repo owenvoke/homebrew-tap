@@ -1,8 +1,8 @@
 class Takeout < Formula
   desc "Docker-based development-only dependency manager"
   homepage "https://github.com/tighten/takeout"
-  url "https://github.com/tighten/takeout/raw/v2.3.0/builds/takeout"
-  sha256 "ee60c1d6cc3786b92617e8ea9cc66a64b5f33ac3d6a01251f12e0807b3fd1d0c"
+  url "https://github.com/tighten/takeout/raw/v2.3.1/builds/takeout"
+  sha256 "94a4a1672184b60b5cf8774d5d5299c1dda082d2ba59d29903b1d613edbee27f"
   license "MIT"
 
   livecheck do
