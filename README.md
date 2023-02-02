@@ -30,6 +30,7 @@ $ brew install --cask "https://raw.githubusercontent.com/owenvoke/homebrew-tap/m
 - [Lambo](https://github.com/tighten/lambo) ([source](./Formula/lambo.rb))
 - [Laracon Schedule](https://github.com/nunomaduro/laracon-schedule) ([source](./Formula/laracon-schedule.rb))
 - [Local PHP Security Checker](https://github.com/fabpot/local-php-security-checker) ([source](./Formula/local-php-security-checker.rb))
+- [Noscl](https://github.com/fiatjaf/noscl) ([source](./Formula/noscl.rb))
 - [Porter](https://github.com/anystack-sh/porter) ([source](./Formula/porter.rb))
 - [Rugby Schedule](https://github.com/owenvoke/rugby-schedule) ([source](./Formula/rugby-schedule.rb))
 - [Takeout](https://github.com/tighten/takeout) ([source](./Formula/takeout.rb))
