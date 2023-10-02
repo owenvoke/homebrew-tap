@@ -1,8 +1,8 @@
 class Porter < Formula
   desc "Background service manager"
   homepage "https://github.com/anystack-sh/porter"
-  url "https://github.com/anystack-sh/porter/raw/v0.0.6/builds/porter"
-  sha256 "8281d1373aea64ad477227110fe8f04e0c3c43f91373c1a821ba2acefde0ecbe"
+  url "https://github.com/anystack-sh/porter/raw/v0.0.11/builds/porter"
+  sha256 "b7f4a4e896a4a902a12fdcbd0ae4393a8eecf536d5076951db54cdc7997255a4"
   license "MIT"
 
   livecheck do
