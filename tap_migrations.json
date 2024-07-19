@@ -1,0 +1,11 @@
+{
+    "graphlint": "worksome/homebrew-tap",
+    "helo": "homebrew/cask",
+    "iconset": "homebrew/cask",
+    "instatus-out": "homebrew/cask",
+    "invoker": "homebrew/cask",
+    "ohdear-cli": "homebrew/core",
+    "tea": "homebrew/core",
+    "tinkerwell": "homebrew/cask",
+    "tint": "homebrew/cask"
+}
