@@ -6,6 +6,8 @@ class Noscl < Formula
   license :public_domain
   head "https://github.com/fiatjaf/noscl.git", branch: "master"
 
+  deprecate! date: "2024-06-20", because: :deprecated_upstream
+
   depends_on "go" => :build
 
   def install
