@@ -1,8 +1,8 @@
 class Ijhttp < Formula
   desc "Use IntelliJ HTTP on the command-line"
   homepage "https://blog.jetbrains.com/idea/2022/12/http-client-cli-run-requests-and-tests-on-ci"
-  url "https://download-cdn.jetbrains.com/resources/intellij/http-client/232.9559.62/intellij-http-client.zip"
-  sha256 "b1bc79dad90639d9e4d0ade305810a340010391fc6690624a2b5aca4e905b214"
+  url "https://download-cdn.jetbrains.com/resources/intellij/http-client/241.14494.240/intellij-http-client.zip"
+  sha256 "3de70607e8307501906d6778d35a9e0852db9abf5f98805dee51b02e544b6868"
 
   livecheck do
     strategy :header_match
