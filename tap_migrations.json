@@ -2,6 +2,7 @@
     "graphlint": "worksome/homebrew-tap",
     "helo": "homebrew/cask",
     "iconset": "homebrew/cask",
+    "ijhttp": "homebrew/cask",
     "instatus-out": "homebrew/cask",
     "invoker": "homebrew/cask",
     "ohdear-cli": "homebrew/core",
